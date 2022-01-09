@@ -1,0 +1,15 @@
+
+curl -L -o gh-pages.zip https://github.com/adamhollett/jekyll-and-slide/archive/3a9da81031cc48fa4b04f90d8872b8d6c5014c8c.zip
+unzip gh-pages.zip 
+mv jekyll-and-slide-* jekyll-and-slide
+cd jekyll-and-slide
+rm -rf reveal.js/ .gitmodules 
+git init
+git config --local user.name "demo"
+git config --local user.email "demo@example.com"
+git submodule add https://github.com/hakimel/reveal.js.git reveal.js
+( cd reveal.js/ && git checkout bef2722 )
+git add .
+git commit -m "first commit"
+
+
