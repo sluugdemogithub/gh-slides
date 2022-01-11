@@ -28,7 +28,7 @@ Not all of GitHub, as that would take several days without rest or bathroom brea
 ## An image
 
 
-![This is an image](/gh-slides/public/old.young.illusion.jpg)
+![This is an image](../public/old.young.illusion.jpg)
 
 
 ----
