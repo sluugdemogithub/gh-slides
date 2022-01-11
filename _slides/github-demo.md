@@ -13,7 +13,9 @@ wanted to fix them, even if only for yourself?
 Or have you ever discovered a bug, came up with a fix, and
 wanted to share the fix with others?
 Well, I have.  
-
+The good news is that more often than not, I was using OpenSource software.
+The even better news is that it was likely hosted on GitHub given
+that over 20 millions public projects are hosted there.
 
 
 
