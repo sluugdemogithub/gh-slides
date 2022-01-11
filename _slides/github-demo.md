@@ -16,6 +16,7 @@ Well, I have.
 The good news is that more often than not, I was using OpenSource software.
 The even better news is that it was likely hosted on GitHub given
 that over 20 millions public projects are hosted there.
+This talk will be about GitHub.
 
 
 
