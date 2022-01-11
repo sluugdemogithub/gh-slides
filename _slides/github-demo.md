@@ -20,6 +20,13 @@ This talk will be about GitHub.
 Not all of GitHub, as that would take several days without rest or bathroom breaks.
 
 
+----
+
+## An image
+
+
+![This is an image](/img/old.young.illusion.jpg)
+
 
 ----
 
