@@ -17,6 +17,7 @@ The good news is that more often than not, I was using OpenSource software.
 The even better news is that it was likely hosted on GitHub given
 that over 20 millions public projects are hosted there.
 This talk will be about GitHub.
+Not all of GitHub, as that would take several days without rest or bathroom breaks.
 
 
 
