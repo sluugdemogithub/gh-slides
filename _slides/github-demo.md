@@ -4,9 +4,18 @@ description: A demo of GitHub
 theme: black
 ---
 
-## Hello there
+## Abstract
 
-reveal.js enables you to create beautiful interactive slide decks using HTML. This presentation will show you examples of what it can do.
+Have you ever used some software and wondered if you could 
+look at the source code to see how it worked?  
+Or have you ever read some documentation with some typos and
+wanted to fix them, even if only for yourself?
+Or have you ever discovered a bug, came up with a fix, and
+wanted to share the fix with others?
+Well, I have.  
+
+
+
 
 ----
 
