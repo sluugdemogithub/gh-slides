@@ -71,7 +71,7 @@ How can I ...
 * Pull Requests
 * Gists
 * Pages
-* maybe: Discussions, Actions, Projects, Alternatives
+* maybe: Discussions, Actions, Projects, gh cli, Alternatives
 
 ----
 
@@ -117,4 +117,59 @@ How can I ...
 
   * https://github.com/orgs/ghostbsd/projects/5
 
+----
+
+# More without an account
+* read the code, docs, etc.
+* download repository - without git
+* download repository - with git
+  * git clone https://github.com/sluugdemogithub/demo01.git
+
+----
+
+# Getting started with an account
+
+* Create account
+
+~~
+
+![img.001.png](../../public/img.001.png)
+
+~~
+
+![img.002.png](../../public/img.002.png)
+
+~~
+
+![img.003.png](../../public/img.003.png)
+
+~~
+
+![img.004.png](../../public/img.004.png)
+
+~~
+
+![img.005.png](../../public/img.005.png)
+
+~~
+
+![img.006.png](../../public/img.006.png)
+
+~~
+
+![img.007.png](../../public/img.007.png)
+
+~~
+
+![img.008.png](../../public/img.008.png)
+
+~~
+
+![img.009.png](../../public/img.009.png)
+
+~~
+
+![img.010.png](../../public/img.010.png)
+
+----
 
