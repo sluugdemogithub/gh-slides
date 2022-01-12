@@ -192,7 +192,7 @@ How can I ...
 # Settings
 * Personal Access Tokens (PAT)
 * SSH keys
-```ssh-keygen -t ecdsa -f ~/.ssh/github_ecdsa```
+  ```ssh-keygen -t ecdsa -f ~/.ssh/github_ecdsa```
 
 ----
 # GitHub Flow
