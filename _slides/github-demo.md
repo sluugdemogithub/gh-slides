@@ -131,6 +131,7 @@ How can I ...
 # Getting started with an account
 
 * Create account
+
   [https://github.com/sluugdemogithub/](https://github.com/sluugdemogithub/)
 
 ~~
@@ -192,6 +193,7 @@ How can I ...
 # Settings
 * Personal Access Tokens (PAT)
 * SSH keys
+
   ```ssh-keygen -t ecdsa -f ~/.ssh/github_ecdsa```
 
 ----
