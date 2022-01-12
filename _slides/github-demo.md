@@ -189,3 +189,34 @@ How can I ...
 
 ----
 
+# Settings
+* Personal Access Tokens (PAT)
+* SSH keys
+```ssh-keygen -t ecdsa -f ~/.ssh/github_ecdsa```
+
+----
+# GitHub Flow
+
+* create feature branch from master/main
+* make changes
+* open pull request
+* merge into master/main
+
+----
+
+# GitHub Flow
+
+![GitHub Flow](https://docs.github.com/assets/cb-42360/images/help/repository/branching.png)
+
+----
+
+# GitHub Flow, addendum
+
+* open issue
+* create feature branch from master/main
+* make changes
+* open pull request
+* merge into master/main
+* close issue
+
+
