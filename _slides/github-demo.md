@@ -102,3 +102,19 @@ How can I ...
 * Lee Lamert
 * Mike Knight
 
+----
+
+# Getting started without an account
+
+* Search for ... stuff
+  * https://github.com/
+
+  * https://github.com/search?q=sqlite3
+  * https://github.com/jtrive84/Introduction_to_sqlite3
+
+  * https://github.com/search?q=chocolate+chip+cookies
+  * https://github.com/cstorm125/choco-raisin/blob/main/notebooks/train_image_classification.ipynb
+
+  * https://github.com/orgs/ghostbsd/projects/5
+
+
