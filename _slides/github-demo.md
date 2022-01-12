@@ -197,10 +197,10 @@ How can I ...
 ----
 # GitHub Flow
 
-* create feature branch from master/main
+* create feature branch from main
 * make changes
 * open pull request
-* merge into master/main
+* merge into aster/main
 
 ----
 
@@ -213,10 +213,10 @@ How can I ...
 # GitHub Flow, addendum
 
 * open issue
-* create feature branch from master/main
+* create feature branch from main
 * make changes
 * open pull request
-* merge into master/main
+* merge into main
 * close issue
 
 
