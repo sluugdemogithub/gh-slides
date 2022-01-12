@@ -167,6 +167,15 @@ How can I ...
 
 ----
 
+
+# Create a repository
+
+* repository - a collection of files and folders under version control
+
+[https://github.com/new](https://github.com/new)
+
+----
+
 # Across the top of the page ...
 * code
 * issues
@@ -179,17 +188,4 @@ How can I ...
 * settings
 
 ----
-
-# Create a repository
-
-* repository - a collection of files and folders under version control
-
-[https://github.com/sluugdemogithub/](https://github.com/sluugdemogithub/)
-
-----
-
-
-
-
-
 
