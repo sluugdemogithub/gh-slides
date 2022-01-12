@@ -139,8 +139,9 @@ Instructions and more info available in the [readme](https://github.com/admhlt/j
 Hit the next arrow...
 
 <span class="fragment">... to step through ...</span>
-
-<span class="fragment">... a</span> <span class="fragment">fragmented</span> <span class="fragment">slide.</span>
+<span class="fragment">... a</span>
+<span class="fragment">fragmented</span>
+<span class="fragment">slide.</span>
 
 ~~
 
