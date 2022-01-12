@@ -122,6 +122,7 @@ How can I ...
 # More without an account
 * read the code, docs, etc.
 * download repository - without git
+  * [https://github.com/sluugdemogithub/demo01](https://github.com/sluugdemogithub/demo01)
 * download repository - with git
   * git clone https://github.com/sluugdemogithub/demo01.git
 
@@ -130,14 +131,6 @@ How can I ...
 # Getting started with an account
 
 * Create account
-
-~~
-
-![img.001.png](../../public/img.001.png)
-
-~~
-
-![img.002.png](../../public/img.002.png)
 
 ~~
 
@@ -172,4 +165,30 @@ How can I ...
 ![img.010.png](../../public/img.010.png)
 
 ----
+
+# Across the top of the page ...
+* code
+* issues
+* pull requests
+* actions
+* projects
+* wiki
+* security
+* insights
+* settings
+
+----
+
+# Create a repository
+
+* repository - a collection of files and folders under version control
+
+[https://github.com/sluugdemogithub/](https://github.com/sluugdemogithub/)
+
+----
+
+
+
+
+
 
