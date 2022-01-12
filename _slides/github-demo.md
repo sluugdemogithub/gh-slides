@@ -131,7 +131,7 @@ How can I ...
 # Getting started with an account
 
 * Create account
-[https://github.com/sluugdemogithub/](https://github.com/sluugdemogithub/)
+  [https://github.com/sluugdemogithub/](https://github.com/sluugdemogithub/)
 
 ~~
 
