@@ -122,9 +122,9 @@ How can I ...
 # More without an account
 * read the code, docs, etc.
 * download repository - without git
-  * [https://github.com/sluugdemogithub/demo01](https://github.com/sluugdemogithub/demo01)
+  * [https://github.com/jpwhite3/northwind-SQLite3](https://github.com/jpwhite3/northwind-SQLite3)
 * download repository - with git
-  * git clone https://github.com/sluugdemogithub/demo01.git
+  * ```git clone https://github.com/sluugdemogithub/demo01.git```
 
 ----
 
