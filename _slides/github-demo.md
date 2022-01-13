@@ -65,12 +65,12 @@ How can I ...
 
 # Topics
 * Repositories
-* Issues
+* Pages
 * Branches
 * Forks
 * Pull Requests
+* Issues
 * Gists
-* Pages
 * maybe: Discussions, Actions, Projects, gh cli, Alternatives
 
 ----
@@ -197,6 +197,13 @@ How can I ...
   ```ssh-keygen -t ecdsa -f ~/.ssh/github_ecdsa```
 
 ----
+
+# Create and modify a page
+
+* README.md
+
+----
+
 # GitHub Flow
 
 * create feature branch from main
@@ -221,4 +228,79 @@ How can I ...
 * merge into main
 * close issue
 
+----
+
+# Pull requests
+
+----
+
+# Insights
+
+----
+
+# Wiki
+
+----
+
+# Actions
+
+----
+
+# Projects
+
+----
+
+# Security
+
+----
+
+# Issues
+
+----
+
+# Gists
+* paste-bin
+* stripped-down repository
+* search for gists
+  * https://gist.github.com/search?q=chocolate+chip+cookies
+
+----
+
+# Jekyll and Slide
+
+[https://github.com/adamhollett/jekyll-and-slide](https://github.com/adamhollett/jekyll-and-slide)
+
+
+----
+
+# References
+## GitHub Learning Lab: Introduction to GitHub Walkthrough
+* https://lab.github.com/githubtraining/introduction-to-github
+* https://youtu.be/sz6zfrQpCQg
+
+----
+
+# References
+## GitHub Actions
+* https://github.com/features/actions
+* https://www.youtube.com/watch?v=cP0I9w2coGU
+* https://www.youtube.com/watch?v=R8_veQiYBjI
+
+----
+# References
+## GitHub pages
+* [https://pages.github.com/](https://pages.github.com/)
+
+----
+# References
+## Slidedeck in GitHubs pages
+* https://github.com/adamhollett/jekyll-and-slide
+
+### using Jupyter notebooks
+* https://towardsdatascience.com/how-to-host-jupyter-notebook-slides-on-github-d785f30e6e2
+
+----
+# IDEs
+## VSCode on Chromebooks
+* https://code.visualstudio.com/blogs/2020/12/03/chromebook-get-started
 
