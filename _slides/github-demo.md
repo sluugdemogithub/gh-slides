@@ -192,7 +192,10 @@ How can I ...
 
 # Settings
 * Personal Access Tokens (PAT)
+  * [https://github.com/settings/apps](https://github.com/settings/apps)
+
 * SSH keys
+  * [https://github.com/settings/keys](https://github.com/settings/keys)
 
   ```ssh-keygen -t ecdsa -f ~/.ssh/github_ecdsa```
 
@@ -200,7 +203,7 @@ How can I ...
 
 # Create and modify a page
 
-* README.md
+```README.md```
 
 ----
 
