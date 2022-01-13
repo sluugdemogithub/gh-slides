@@ -1,6 +1,6 @@
 ---
-title: GitHub Demo
-description: A demo of GitHub
+title: GitHub Overview
+description: A gentle introduction to the features of GitHub
 theme: black
 ---
 
