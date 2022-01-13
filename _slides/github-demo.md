@@ -212,7 +212,7 @@ How can I ...
 * create feature branch from main
 * make changes
 * open pull request
-* merge into aster/main
+* merge into main
 
 ----
 
