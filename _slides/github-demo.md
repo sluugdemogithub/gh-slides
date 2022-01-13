@@ -98,8 +98,8 @@ How can I ...
 * Gary Meyer
 * Jonathan Drews
 * Ed Howland
-* Stan Reichard
-* Lee Lamert
+* Stan Reichardt
+* Lee Lammert
 * Mike Knight
 
 ----
